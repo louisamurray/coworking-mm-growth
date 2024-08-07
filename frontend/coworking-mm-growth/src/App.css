@@ -134,13 +134,9 @@ pre {
   font-size: 16px;
 }
 
-.summary-item span {
-  font-weight: bold;
-}
-
 /* Media Queries */
 @media (max-width: 768px) {
   .form-container, .summary-container {
-      width: 100%;
+    width: 100%;
   }
 }
